@@ -107,6 +107,20 @@ Or view it on GitHub by clicking the file above.
 
 ---
 
+## Further Reading
+
+Companion articles that extend specific chapters of the paper:
+
+| Read after | Article | Topic |
+|---|---|---|
+| §3 Context Window Mechanics | [Why Context Windows Aren't Memory (And Why It Matters)](https://widemem.ai/blog/context-windows) | The capacity-vs-quality distinction in practice |
+| §5 YMYL Memory Gap | [Your AI Forgot Someone's Medication. Now What?](https://widemem.ai/blog/ymyl) | What YMYL retention looks like when it goes wrong |
+| §6 Memory Failure Taxonomy | [The Contradiction Problem in AI Memory](https://widemem.ai/blog/contradictions) | How memory systems handle conflicting facts |
+| §7-8 Claude Code & Vibe Coding | [Why AI Coding Agents Forget Your Project Conventions](https://widemem.ai/blog/ai-coding-agent-memory) | Project-convention drift in long agent sessions |
+| §10 Security and Privacy | [Memory for AI That Operates Under Audit](https://widemem.ai/blog/audit-grade-memory) | Compliant multi-tier deletion in practice |
+
+---
+
 ## Citation
 
 ```bibtex
@@ -151,8 +165,8 @@ You are free to share and adapt this material for any purpose, including commerc
 | Version | Date | Changes |
 |---------|------|---------|
 | 3.0 | March 2026 | Complete rewrite. Supersedes v1.0, Addenda 1-3, and v2.0. Added Widemem.ai, AWS AgentCore, Notion AI, vibe coding study, security section, future trajectory. 48 references. |
-| 2.0 | -- | Consolidated addenda into single document |
-| 1.0 | -- | Original paper |
+| 2.0 | January 2026 | Consolidated addenda into single document |
+| 1.0 | November 2025 | Original paper |
 
 ---
 
